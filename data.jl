@@ -24,7 +24,7 @@ gdict = Dict(edges .=> g);
 
 
 # Cost for each generator
-G_costs = [175, 100, 150, 150, 300, 350, 400, 300, 20];
+G_costs = [175, 100, 150, 150, 300, 350, 400, 300, 200];
 
 # Max Capacity in Pu
 G_maxPu = [0.02, 0.15, 0.08, 0.07, 0.04, 0.17, 0.17, 0.26, 0.05];
